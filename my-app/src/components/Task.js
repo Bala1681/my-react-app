@@ -26,8 +26,8 @@ export default function Task(props){
               <li className={props.class4}><span className="fa-li"><i className={props.tick4}></i></span>Monthly Status
                 Reports</li>
             </ul>
-            <div className="d-grid">
-              <a href="#" className="btn btn-primary text-uppercase" className="button1">Button</a>
+            <div className="d-grid text-center">
+              <a href="#" className="btn btn-primary text-uppercase text-center" >Button</a>
             </div>
           </div>
         </div>
